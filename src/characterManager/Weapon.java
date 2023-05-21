@@ -5,5 +5,6 @@ public class Weapon {
     private String type;
     private int hitDie;
     private int numberOfHitDie;
+    private boolean equipped;
 
 }
